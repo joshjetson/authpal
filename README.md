@@ -1,6 +1,6 @@
 # AuthPal> A Program to save and manage all of your usernames and passwords
 
-****NOTE: 
+**NOTE: 
           <b>Linux Users:</b>
           Make sure all of the files are in the same folder then in a terminal simply chmod +x authpal then ./authpal to run the program.
           <b>Windows Users:</b>
