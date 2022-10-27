@@ -1,7 +1,7 @@
 # AuthPal> A Program to save and manage all of your usernames and passwords
 
 ****NOTE: 
-          Make sure all of the files are in the same folder then in a terminal simply ./authpal to run the program.
+          Make sure all of the files are in the same folder then in a terminal simply chmod +x authpal then ./authpal to run the program.
           If you ever want to start from scratch just delete the db files that are generated in the folder after 
           a new login is created. This program does not use any network protocols you can verify it yourself by checking
           your network. Make sure to remember the login username and password, which if you end up liking the program,
