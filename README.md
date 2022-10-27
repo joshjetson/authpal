@@ -13,3 +13,4 @@
   and I noticed that everything similar to this program you had to pay for. Pay for such a simple task I thought...no no.
   Thus this simple program was created using tkinter and python. Tkinter is ugly I know I know. If people end up using this thing
   I will modify it so it is better and im open to suggestions. Hope smoeone finds use for it. Cheers!
+<img src="https://github.com/joshjetson/authpal/blob/main/authpal_main_gui.png" alt="Alt text" title="Main Gui">
