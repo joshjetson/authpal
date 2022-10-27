@@ -1,5 +1,6 @@
 # AuthPal>
-##'A Program to save and manage all of your usernames and passwords.'
+#A Program to save and manage all of your usernames and passwords
+
 ****NOTE: 
           Make sure all of the files are in the same folder then in a terminal simply ./authpal to run the program.
           If you ever want to start from scratch just delete the db files that are generated in the folder after 
