@@ -1,5 +1,4 @@
-# AuthPal>
-#A Program to save and manage all of your usernames and passwords
+# AuthPal> A Program to save and manage all of your usernames and passwords
 
 ****NOTE: 
           Make sure all of the files are in the same folder then in a terminal simply ./authpal to run the program.
